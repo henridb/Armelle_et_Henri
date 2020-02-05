@@ -1,0 +1,7 @@
+title: Henri et Armelle
+description: Site d'organisation du mariage de Henri et Armelle
+
+markdown: kramdown
+theme: jekyll-theme-slate
+
+show_downloads: false
