@@ -13,7 +13,9 @@ Emplacement de la réception :
 ## Vous voulez nous aider ?
 
 Nous avons besoin de nous surtout pour l'annimation durant la messe, 
+{:refdef: style="text-align: center;"}
 <img src="images/Want_you.jpg" alt="We want you !" width="50%"/>
+{: refdef}
 
 ## Éléments à venir
 
