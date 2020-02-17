@@ -12,7 +12,7 @@ Emplacement de la réception :
 
 ## Vous voulez nous aider ?
 
-Nous avons besoin de nous surtout pour l'annimation durant la messe, 
+Nous avons besoin de vous surtout pour l'annimation durant la messe, tout instrumentiste et chanteur est très bien venu. Contactez nous et nous saurons vous rediriger vers qui de droit ;)
 {:refdef: style="text-align: center;"}
 <img src="images/Want_you.jpg" alt="We want you !" width="50%"/>
 {: refdef}
