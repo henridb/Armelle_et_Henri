@@ -19,6 +19,8 @@ Nous avons besoin de nous surtout pour l'annimation durant la messe,
 
 ## Éléments à venir
 
-Hôtels dans la région :
+### Hôtels dans la région
 
-Liste de Mariage :
+### Liste de Mariage
+
+### Horaires
