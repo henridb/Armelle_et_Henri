@@ -13,7 +13,7 @@ Emplacement de la réception :
 ## Vous voulez nous aider ?
 
 Nous avons besoin de nous surtout pour l'annimation durant la messe, 
-<img src="images/Want_you.jpg" alt="We want you !" width="100%"/>
+<img src="images/Want_you.jpg" alt="We want you !" width="50%"/>
 
 ## Éléments à venir
 
