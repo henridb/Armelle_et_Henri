@@ -12,7 +12,7 @@ Emplacement de la réception :
 
 ## Liste de Mariage
 
-Vous pouvez trouver notre liste de mariage à l'adresse suivante : (https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri).<br>
+Vous pouvez trouver notre liste de mariage à l'adresse suivante : [https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri](https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri).<br>
 Dans cette liste vous pouvez participer partiellement ou intégrallement au(x) cadeau(x) de votre choix. Ces participations nous sont versées sur un compte commun afin de ne pas être noyés sous les cadeaux dans notre futur (petit) appart.
 
 ## Vous voulez nous aider pour le jour J ?
