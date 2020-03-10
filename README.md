@@ -13,11 +13,11 @@ Emplacement de la réception :
 ## Liste de Mariage
 
 Vous pouvez trouver notre liste de mariage à l'adresse suivante : [https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri](https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri).<br>
-Dans cette liste vous pouvez participer partiellement ou intégrallement au(x) cadeau(x) de votre choix. Ces participations nous sont versées sur un compte commun afin de ne pas être noyés sous les cadeaux dans notre futur (petit) appart.
+Dans cette liste vous pouvez participer partiellement ou intégralement au(x) cadeau(x) de votre choix. Ces participations nous sont versées sur un compte commun afin de ne pas être noyés sous les cadeaux dans notre futur (petit) appart.
 
 ## Vous voulez nous aider pour le jour J ?
 
-Nous avons besoin de vous surtout pour l'annimation durant la messe, tout instrumentiste et chanteur est très bien venu. Contactez nous et nous saurons vous rediriger vers qui de droit ;)
+Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrumentiste et chanteur est très bienvenu ! Contactez nous et nous saurons vous rediriger vers qui de droit ;)
 {:refdef: style="text-align: center;"}
 <img src="images/Want_you.jpg" alt="We want you !" width="50%"/>
 {: refdef}
