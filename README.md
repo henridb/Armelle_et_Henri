@@ -23,7 +23,15 @@ Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrum
 <img src="images/Want_you.jpg" alt="We want you !" width="50%"/>
 {: refdef}
 
-## Éléments à venir
+## Veni, vidi, dormi... Venir et dormir
 
-### Hôtels dans la région
+### Veni
 
+- Venir en voiture : Voir les adresses plus haut.
+- Venir en train : Gare d'Angers (30 minutes en voiture) ou gare d'Ingrandes-sur-Loire (10 minutes en voiture).
+- Venir à dos d'hippopotame : Comme en voiture mais un peu plus long.
+
+### Dormi
+
+Des emplacements de tentes sont prévus au Prieuré pour les plus campeurs d'entre vous. Pour ceux qui cherchent un peu plus de confort, voici quelques adresses d'hôtels et gîtes : <br>
+\[À venir\]
