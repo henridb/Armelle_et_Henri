@@ -4,4 +4,8 @@
 @import "{{ site.theme }}";
 .page-header {
     background-image: url(https://henridb.github.io/Armelle_et_Henri/images/prieure.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #193259;
 }
