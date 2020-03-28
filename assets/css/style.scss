@@ -9,3 +9,7 @@
     background-position: center;
     background-color: #193259;
 }
+@media screen and (min-width: 64em)
+.page-header {
+    padding: 8rem 6rem;
+}
