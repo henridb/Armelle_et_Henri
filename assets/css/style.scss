@@ -2,15 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-:root {
-  --main-blue: #193259;
-}
 .page-header {
     background-image: url(https://henridb.github.io/Armelle_et_Henri/images/prieure.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: var(--main-blue);
+    background-color: #193259;
 }
 @media screen and (min-width: 64em) {
     .page-header {
@@ -27,7 +24,10 @@
         padding: 4rem 1rem;
     }
 }
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #25549e;
+}
+.main-content h1, .main-content h2 {
     color: #f7bb11;
 }
 .main-content h1, .main-content h2 {
