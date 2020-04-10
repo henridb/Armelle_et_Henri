@@ -36,3 +36,7 @@ Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrum
 
 Des emplacements de tentes sont prévus au Prieuré pour les plus campeurs d'entre vous. Pour ceux qui cherchent un peu plus de confort, voici quelques adresses d'hôtels et gîtes : <br>
 \[À venir\]
+
+## Autres infos pratiques
+
+Des baby-sitters seront prévus jusqu'à minuit pour les enfants
