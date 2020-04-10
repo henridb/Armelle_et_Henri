@@ -16,16 +16,16 @@ Cocktail à partir de 17h au Prieuré, 49370 Villemoisan
 Vous pouvez trouver notre liste de mariage à l'adresse suivante : [https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri](https://www.kadolog.com/fr/list/liste-de-mariage-armelle-et-henri).<br>
 Dans cette liste vous pouvez participer partiellement ou intégralement au(x) cadeau(x) de votre choix.
 
-## Vous voulez nous aider pour le jour J ? <br>
-
+## Vous voulez nous aider pour le jour J ? 
+<br>
 Vous aimez chanter ? Vous avez des talents de trompettiste insoupçonnés ? Vous mourez d'envie de partager vos dons musicaux en triangle ?<br>
 Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrumentiste et chanteur est très bienvenu ! Contactez-nous et nous saurons vous rediriger vers qui de droit ;)
 {:refdef: style="text-align: center;"}
 <img src="images/Want_you.jpg" alt="We want you !" width="50%"/>
 {: refdef}
 
-## Veni, vidi, dormi... Venir et dormir <br>
-
+## Veni, vidi, dormi... Venir et dormir 
+<br>
 ### Veni
 
 - Venir en voiture : Voir les adresses plus haut.
@@ -37,6 +37,6 @@ Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrum
 Des emplacements de tentes sont prévus au Prieuré pour les plus campeurs d'entre vous. Pour ceux qui cherchent un peu plus de confort, voici quelques adresses d'hôtels et gîtes : <br>
 \[À venir\]
 
-## Autres infos pratiques <br>
-
+## Autres infos pratiques
+<br>
 Des baby-sitters seront prévus jusqu'à minuit pour les enfants
