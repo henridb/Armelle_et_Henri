@@ -28,6 +28,9 @@
   --some-orange: #f8bf1e;
   --covid-padding: 10px;
 }
+.material-icons {
+    font-variant: none;
+}
 .COVID-19 {
     border: 2px solid var(--some-orange);
     width: 90%;
