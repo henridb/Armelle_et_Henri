@@ -1,14 +1,15 @@
 # Armelle et Henri se marient
 <br>
 Vous trouverez sur ce site les informations utiles pour s'organiser pour le jour J. Pour toute question, vous pouvez bien évidemment nous contacter directement.<br>
-On a hâte de vous voir tous ! <br> <br>
+On a hâte de vous voir tous !<br> <br>
 
 <div class="COVID-19">
 <div class="COVID-19-container">
   
   <h2> Informations COVID-19 </h2>
   
-  Comme vous le savez, l'époque n'est pas la plus simple pour organiser un mariage, des changements de dernière minute sont malheureusement assez probables. Pour cette raison, nous aurions besoin de votre adresse mail pour communiquer tout changement. Vous pouvez donc soit nous la donner avec votre réponse, soit remplir le questionnaire suivant : <a href="https://forms.gle/zXY9MyDu2mp2TkDt5">https://forms.gle/zXY9MyDu2mp2TkDt5</a>.<br> <br>
+  Comme vous le savez, l'époque n'est pas la plus simple pour organiser un mariage. Des changements de dernière minute sont malheureusement assez probables. Pour cette raison, nous aurions besoin de votre adresse mail pour communiquer tout changement.<br> 
+  Vous pouvez donc soit nous la donner avec votre réponse, soit remplir le questionnaire suivant : <a href="https://forms.gle/zXY9MyDu2mp2TkDt5">https://forms.gle/zXY9MyDu2mp2TkDt5</a>.<br> <br>
   
   Nous mettrons aussi cette section du site à jour en fonction des directives gouvernementales.
   
