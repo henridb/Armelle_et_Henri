@@ -38,6 +38,7 @@
         linear-gradient(to right, var(--some-orange) 0%,transparent var(--covid-padding),transparent 100%), 
         linear-gradient(to top, var(--some-orange) 0%,transparent var(--covid-padding),transparent 100%), 
         linear-gradient(to bottom, var(--some-orange) 0%,transparent var(--covid-padding),transparent 100%);
+    text-align: justify;
 }
 .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #25549e;
