@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 # Armelle et Henri se marient
 <br>
 Vous trouverez sur ce site les informations utiles pour s'organiser pour le jour J. Pour toute question, vous pouvez bien évidemment nous contacter directement.<br>
