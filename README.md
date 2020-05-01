@@ -3,6 +3,16 @@
 Vous trouverez sur ce site les informations utiles pour s'organiser pour le jour J. Pour toute question, vous pouvez bien évidemment nous contacter directement.<br>
 On a hâte de vous voir tous !
 
+<div class="COVID-19">
+
+  ## Informations COVID-19
+  
+  Comme vous le savez, l'époque n'est pas la plus simple pour organiser un mariage, des changement de dernière minutes sont malheureusement assez probables. Pour cette raison, nous aurions besoin de votre adresse mail pour communiquer tout changement. Nous vous avons demandé ne nous la communiquer dans les faire-part, vous pouvez donc soit nous la donner avec votre réponse, soit remplir le questionnaire suivant : https://forms.gle/zXY9MyDu2mp2TkDt5
+  
+  Nous mettrons aussi cette section du site à jour en fonction des directives gouvernementales.
+  
+</div>
+
 ## Lieux et horaires 
 
 Messe à 14h30 en l'église abbatiale Saint-Florent du Mont-Glonne, 49410 Mauges-sur-Loire
