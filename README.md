@@ -8,7 +8,7 @@ On a hâte de vous voir tous !
   
   <h2> Informations COVID-19 </h2>
   
-  Comme vous le savez, l'époque n'est pas la plus simple pour organiser un mariage, des changement de dernière minutes sont malheureusement assez probables. Pour cette raison, nous aurions besoin de votre adresse mail pour communiquer tout changement. Nous vous avons demandé ne nous la communiquer dans les faire-part, vous pouvez donc soit nous la donner avec votre réponse, soit remplir le questionnaire suivant : [https://forms.gle/zXY9MyDu2mp2TkDt5](https://forms.gle/zXY9MyDu2mp2TkDt5).<br>
+  Comme vous le savez, l'époque n'est pas la plus simple pour organiser un mariage, des changement de dernière minutes sont malheureusement assez probables. Pour cette raison, nous aurions besoin de votre adresse mail pour communiquer tout changement. Nous vous avons demandé ne nous la communiquer dans les faire-part, vous pouvez donc soit nous la donner avec votre réponse, soit remplir le questionnaire suivant : <a href="https://forms.gle/zXY9MyDu2mp2TkDt5">https://forms.gle/zXY9MyDu2mp2TkDt5</a>.<br>
   
   Nous mettrons aussi cette section du site à jour en fonction des directives gouvernementales.
   
