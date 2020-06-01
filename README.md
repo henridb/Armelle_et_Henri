@@ -39,7 +39,7 @@ Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrum
 ## Veni, vidi, dormi... Venir et dormir 
 ### Veni
 
-- Venir en voiture : Voir les adresses plus haut.
+- Venir en voiture : Voir les adresses plus haut. Si vous souhaitez faire du covoiturage, envoyez un mail à cette adresse : henrideboutray\[at\]hotmail\[point\]fr pour que nous vous mettions en contact avec les covoitureurs.
 - Venir en train : Gare d'Angers (30 minutes en voiture) ou gare d'Ingrandes-sur-Loire (10 minutes en voiture).
 - Venir à dos d'hippopotame : Comme en voiture mais un peu plus long.
 
@@ -49,4 +49,4 @@ Des emplacements de tentes sont prévus au Prieuré pour les plus campeurs d'ent
 \[À venir\]
 
 ## Autres infos pratiques
-Des baby-sitters seront prévus jusqu'à minuit pour les enfants
+Des baby-sitters seront prévus jusqu'à minuit pour les enfants.
