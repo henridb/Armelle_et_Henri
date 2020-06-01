@@ -39,7 +39,7 @@ Nous avons besoin de vous surtout pour l'animation durant la messe, tout instrum
 ## Veni, vidi, dormi... Venir et dormir 
 ### Veni
 
-- Venir en voiture : Voir les adresses plus haut. Si vous souhaitez faire du covoiturage, envoyez un mail à cette adresse : henrideboutray\[at\]hotmail\[point\]fr pour que nous vous mettions en contact avec les covoitureurs.
+- Venir en voiture : Voir les adresses plus haut. Si vous souhaitez faire du covoiturage, contactez-nous (Armelle ou Henri) pour que nous vous mettions en contact avec les covoitureurs.
 - Venir en train : Gare d'Angers (30 minutes en voiture) ou gare d'Ingrandes-sur-Loire (10 minutes en voiture).
 - Venir à dos d'hippopotame : Comme en voiture mais un peu plus long.
 
